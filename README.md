@@ -44,7 +44,8 @@ Sou estudante e entusiasta de Análise de Dados, em constante desenvolvimento t�
 
 - Projetos com SQL Server (consultas e Análise de Dados);
 - Projetos com Python para Análise Exploratória de Dados (EDA);
-- Projetos de automação e tratamento de Dados.
+- Projetos de automação e tratamento de Dados;
+- Medidas DAX.
 
 ---
 
