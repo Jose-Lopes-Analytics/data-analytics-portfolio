@@ -42,7 +42,7 @@ Sou estudante e entusiasta de Análise de Dados, em constante desenvolvimento t�
 
 ### 🚧 Em desenvolvimento:
 
-- Projetos com SQL Server (consultas e análise de Dados);
+- Projetos com SQL Server (consultas e Análise de Dados);
 - Projetos com Python para Análise Exploratória de Dados (EDA);
 - Projetos de automação e tratamento de Dados.
 
