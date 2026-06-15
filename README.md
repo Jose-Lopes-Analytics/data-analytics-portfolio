@@ -119,6 +119,72 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ---
 
+📊 Dashboard Vendas.
+
+📌 Analisar dados de vendas para apoiar a tomada de decisão comercial, com foco em desempenho
+de vendas, faturamento, produtos e evolução de resultados ao longo do tempo.
+
+🖼️ **Preview do dashboard, (Arquivo .png):**
+
+
+
+
+
+
+---
+
+🔴 **Acessar dashboard, (Arquivo .pbix):**
+
+👉 🔗
+https://app.powerbi.com/view?r=eyJrIjoiNDdiYjdiNzItZGEyYy00ZjgyLWIzNjUtYzc0ZjdkZWE5ZGQwIiwid
+CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
+---
+
+### KPIs principais:
+
+- 💰 Faturamento total; 
+-	📦 Quantidade total de vendas; 
+-	🧾 Ticket médio por venda;
+-	🏆 Produtos mais vendidos; 
+-	📊 Evolução de vendas ao longo do tempo; 
+-	📈 Performance de vendas por período.
+
+
+
+
+📊 Principais indicadores:
+
+- Comparativo de vendas por período;
+- Participação dos produtos no faturamento;
+- Distribuição das vendas por região e categoria;
+- Tendências de crescimento ou queda nas vendas;
+- Identificação de oportunidades de melhoria no desempenho comercial.
+
+---
+
+## 🛠️ Tecnologias:
+
+- 📊 Power BI;
+- 📝 DAX (Data Analysis Expressions), (em estudo);
+- 🔄 Power Query;
+- 📈 Microsoft Excel;
+- 🗄️ SQL Server (em estudo);
+- 🌿 Git;
+- 🐙 GitHub.
+
+---
+
+## 🛠️ Ferramentas de apoio:
+
+- Power Ponint
+- https://mycolor.space/
+- https://www.flaticon.com/
+- https://instant-eyedropper.com/
+- https://pt-br.imgbb.com/
+
+---
+
 📊 Dashboard de Recursos Humanos (RH).
 
 📌 Dashboard desenvolvido para análise de indicadores de Recursos Humanos, apoiando a gestão 
@@ -169,72 +235,6 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 - 📊 Power BI;
 - 📝 DAX (Data Analysis Expressions, em estudo);
-- 🔄 Power Query;
-- 📈 Microsoft Excel;
-- 🗄️ SQL Server (em estudo);
-- 🌿 Git;
-- 🐙 GitHub.
-
----
-
-## 🛠️ Ferramentas de apoio:
-
-- Power Ponint
-- https://mycolor.space/
-- https://www.flaticon.com/
-- https://instant-eyedropper.com/
-- https://pt-br.imgbb.com/
-
----
-
-📊 Dashboard Vendas.
-
-📌 Analisar dados de vendas para apoiar a tomada de decisão comercial, com foco em desempenho
-de vendas, faturamento, produtos e evolução de resultados ao longo do tempo.
-
-🖼️ **Preview do dashboard, (Arquivo .png):**
-
-
-
-
-
-
----
-
-🔴 **Acessar dashboard, (Arquivo .pbix):**
-
-👉 🔗
-https://app.powerbi.com/view?r=eyJrIjoiNDdiYjdiNzItZGEyYy00ZjgyLWIzNjUtYzc0ZjdkZWE5ZGQwIiwid
-CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
-
----
-
-### KPIs principais:
-
-- 💰 Faturamento total; 
--	📦 Quantidade total de vendas; 
--	🧾 Ticket médio por venda;
--	🏆 Produtos mais vendidos; 
--	📊 Evolução de vendas ao longo do tempo; 
--	📈 Performance de vendas por período.
-
-
-
-
-📊 Principais indicadores:
-
-- Comparativo de vendas por período;
-- Participação dos produtos no faturamento;
-- Distribuição das vendas por região e categoria;
-- Tendências de crescimento ou queda nas vendas;
-- Identificação de oportunidades de melhoria no desempenho comercial.
-
----
-
-## 🛠️ Tecnologias:
-
-- 📊 Power BI;
-- 📝 DAX (Data Analysis Expressions), (em estudo);
 - 🔄 Power Query;
 - 📈 Microsoft Excel;
 - 🗄️ SQL Server (em estudo);
