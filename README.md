@@ -39,7 +39,7 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 ## 🛠️ Tecnologias:
 
 - 📊 Power BI;
-- 📝 DAX (Data Analysis Expressions), (em estudo);
+- 📝 DAX (em estudo);
 - 🔄 Power Query;
 - 📈 Microsoft Excel;
 - 🗄️ SQL Server (em estudo); 
