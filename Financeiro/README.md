@@ -10,7 +10,8 @@
 ---
 
 ## 🎯 Objetivo
-Este projeto tem como objetivo analisar indicadores financeiros por meio de um dashboard interativo, auxiliando na tomada de decisão baseada em dados.
+
+Este projeto tem como objetivo analisar indicadores financeiros por meio de um dashboard interativo, auxiliando na tomada de decisões baseadas em dados.
 
 ---
 
@@ -43,13 +44,14 @@ Este projeto tem como objetivo analisar indicadores financeiros por meio de um d
 ---
 
 ## 📈 Visão geral
+
 Dashboard desenvolvido para acompanhamento de performance financeira de forma clara e interativa.
 
 ---
 
 Abaixo está o dashboard desenvolvido no Power BI para análise financeira.
 
-![Dashboard Financeiro](images/dashboard-financeiro.png)
+<img src="images/dashboard-financeiro.png" width="900"/>
 
 ---
 
