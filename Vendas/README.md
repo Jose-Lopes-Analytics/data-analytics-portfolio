@@ -19,7 +19,7 @@ Transformar dados de produção em informações estratégicas para melhorar a e
 
 ## 📊 Visão Geral do Dashboard
 
-![Dashboard de Produção](../images/dashboard-producao.png)
+![Dashboard de Produção](../images/dashboard-vendas.png)
 
 ---
   
