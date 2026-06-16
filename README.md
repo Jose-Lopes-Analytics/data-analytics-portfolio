@@ -306,7 +306,7 @@ Business Inteligence, reunindo projetos desenvolvidos para aprimorar conheciment
 
 ---
 
-⭐ Obrigado por visitar meu portfólio!
+⭐ Grato por visitar meu portfólio!
 
   
 
