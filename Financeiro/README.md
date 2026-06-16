@@ -65,5 +65,9 @@ interativa dos principais indicadores de desempenho.
 ✔ Finalizado
 
 ---
+Contatos:
+WhatsApp: +55 (11)920_855_968;
+E-mail: jlrpbr@gmail.com
+GitHub: https://github.com/Jose-Lopes-Analytics/data-analytics-portfolio/
 
 🙏 Grato por visitar meu portfólio!</b>
