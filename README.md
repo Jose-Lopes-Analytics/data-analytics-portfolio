@@ -71,7 +71,7 @@ acompanhar indicadores estratégicos e identificar oportunidades de melhoria nos
 
 🖼️ **Preview do dashboard, (Arquivo .png):**
 
-![Dashboard de Produção](images/dashboard-producao/dashboard-producao.png)
+![Dashboard Produção](images/dashboard-producao.png)
 
 
 ---
