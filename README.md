@@ -199,7 +199,6 @@ de pessoas e o acompanhamento de métricas organizacionais.
 
 
 
-
 ---
 
 🔴 **Acessar dashboard, (Arquivo .pbix):**
