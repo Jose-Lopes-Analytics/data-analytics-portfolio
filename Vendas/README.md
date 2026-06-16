@@ -35,7 +35,7 @@ faturamento, performance de produtos e evolução comercial.
 
 ---
 
-- 🧠 Insights
+🧠 Insights
 
 - Identificação de períodos de maior e menor desempenho de vendas
 - Análise de variação no faturamento ao longo do tempo
