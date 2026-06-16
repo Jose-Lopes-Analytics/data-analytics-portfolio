@@ -60,21 +60,22 @@ tomada de decisão, facilitando a análise de resultados e tendências.
 
 ## 🛠️ Ferramentas de Apoio
 
-PowerPoint (apresentação)
+- PowerPoint (apresentação)
 
-MyColorSpace — paletas de cores: https://mycolor.space/
+- MyColorSpace — paletas de cores: https://mycolor.space/
 
-Flaticon — ícones: https://www.flaticon.com/
+- Flaticon — ícones: https://www.flaticon.com/
 
-Instant Eyedropper — captura de cores: https://instant-eyedropper.com/
+- Instant Eyedropper — captura de cores: https://instant-eyedropper.com/
 
-ImgBB — hospedagem de imagens: https://pt-br.imgbb.com/
+- ImgBB — hospedagem de imagens: https://pt-br.imgbb.com/
 
 ## 🚀 Status do Projeto:
 
 ✔ Finalizado
 
 ---
+
 Contatos:
 
 Se quiser trocar uma ideia ou falar sobre oportunidades:
