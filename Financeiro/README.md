@@ -9,15 +9,15 @@
 
 # 📊 Dashboard Financeiro
 
-Este projeto apresenta uma análise completa de dados financeiros, com foco em 
-indicadores de desempenho, receitas, despesas e lucratividade.
+Este projeto apresenta uma análise completa de dados financeiros,
+com foco em indicadores de desempenho, receitas, despesas e lucratividade.
 
 ---
 
 ## 🎯 Objetivo
 
-Transformar dados financeiros em insights visuais para apoiar a tomada de decisão,
-facilitando a análise de resultados e tendências.
+Transformar dados financeiros em insights visuais para apoiar a 
+tomada de decisão, facilitando a análise de resultados e tendências.
 
 ---
 
@@ -49,7 +49,7 @@ facilitando a análise de resultados e tendências.
 ## 🛠️ Ferramentas Utilizadas
 
 - Power BI
-- Excel (ou fonte ou outra forma de dados)
+- Excel
 - DAX (quando aplicável)
 
 ---
