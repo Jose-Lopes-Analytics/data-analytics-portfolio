@@ -11,7 +11,7 @@ com foco em dashboards interativos, indicadores e tomadas de decisões.
 
 ---
 
-📊 Dashboard Financeiro.
+📊 Dashboard Financeiro
 
 📌 Análise de receitas, despesas e indicadores financeiros, com foco em performance e
 visão gerencial.
@@ -62,7 +62,7 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ---
 
-📊 Dashboard de Produção.
+📊 Dashboard de Produção
 
 📌 Desenvolvido para monitoramento da produção e análise da eficiência operacional, permitindo 
 acompanhar indicadores estratégicos e identificar oportunidades de melhoria nos processos produtivos.
@@ -126,7 +126,7 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ---
 
-📊 Dashboard Vendas.
+📊 Dashboard Vendas
 
 📌 Analisar dados de vendas para apoiar a tomada de decisão comercial, com foco em desempenho
 de vendas, faturamento, produtos e evolução de resultados ao longo do tempo.
@@ -196,7 +196,7 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ---
 
-📊 Dashboard de Recursos Humanos (RH).
+📊 Dashboard de Recursos Humanos (RH)
 
 📌 Dashboard desenvolvido para análise de indicadores de Recursos Humanos, apoiando a gestão 
 de pessoas e o acompanhamento de métricas organizacionais.
