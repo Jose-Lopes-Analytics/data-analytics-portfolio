@@ -25,6 +25,7 @@ visão gerencial.
 🔴 **Acessar dashboard, (Arquivo .pbix):**
 
 👉 🔗
+
 https://app.powerbi.com/view?r=eyJrIjoiNjdlOTM4NDAtMDIwYS00ZjJhLWEzZDYtODUzNzc2Y2E2NjA1Iiwid
 CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
@@ -77,6 +78,7 @@ acompanhar indicadores estratégicos e identificar oportunidades de melhoria nos
 🔴 **Acessar dashboard, (Arquivo .pbix):**
 
 👉 🔗
+
 https://app.powerbi.com/view?r=eyJrIjoiM2U3ZTNlZjMtYWE5NC00YjhlLWEyZGQtNWFmMGRkM2FjYTI1Iiwid
 CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
@@ -142,6 +144,7 @@ de vendas, faturamento, produtos e evolução de resultados ao longo do tempo.
 🔴 **Acessar dashboard, (Arquivo .pbix):**
 
 👉 🔗
+
 https://app.powerbi.com/view?r=eyJrIjoiNDdiYjdiNzItZGEyYy00ZjgyLWIzNjUtYzc0ZjdkZWE5ZGQwIiwid
 CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
@@ -156,8 +159,7 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 -	📊 Evolução de vendas ao longo do tempo; 
 -	📈 Performance de vendas por período.
 
-
-
+---
 
 📊 Principais indicadores:
 
@@ -171,17 +173,17 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ## 🛠️ Tecnologias:
 
-- 📊 Power BI;  
-- 🔄 Power Query;  
-- 📈 Microsoft Excel;  
-- 🌿 Git;  
-- 🐙 GitHub.  
+- 📊 Power BI  
+- 🔄 Power Query  
+- 📈 Microsoft Excel  
+- 🌿 Git  
+- 🐙 GitHub  
 
 ## 🗄️ Em estudo:
 
-- SQL Server;
-- DAX; 
-- Python.
+- SQL Server
+- DAX 
+- Python
 
 ---
 
@@ -209,6 +211,7 @@ de pessoas e o acompanhamento de métricas organizacionais.
 🔴 **Acessar dashboard, (Arquivo .pbix):**
 
 👉 🔗
+
 https://app.powerbi.com/view?r=eyJrIjoiZjZhYjAzMWItN2ZjYS00OGFjLWE4Y2UtNWVmMTdkODJkNjFkIiwid
 CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
