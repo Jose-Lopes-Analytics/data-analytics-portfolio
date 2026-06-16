@@ -259,11 +259,11 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ## 🛠️ Ferramentas de apoio:
 
-- Power Ponint
-- https://mycolor.space/
-- https://www.flaticon.com/
-- https://instant-eyedropper.com/
-- https://pt-br.imgbb.com/
+- PowerPoint (apresentação)
+- MyColorSpace — paletas de cores: https://mycolor.space/
+- Flaticon — ícones: https://www.flaticon.com/
+- Instant Eyedropper — captura de cores: https://instant-eyedropper.com/
+- ImgBB — hospedagem de imagens: https://pt-br.imgbb.com/
 
 ---
 
@@ -287,15 +287,15 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 Este portfólio faz parte da minha jornada de evolução na área de Análise de Dados e 
 Business Inteligence, reunindo projetos desenvolvidos para aprimorar conhecimentos em:
 
-- Power BI;
-- Power Query;
-- Modelagem de Dados;
-- Git e GitHub;
-- Visualização de Dados;
-- Storytelling com Dados;
-- SQL Server (em estudo);
-- DAX (em estudo);
-- Python (em estudo).
+- Power BI
+- Power Query
+- Modelagem de Dados
+- Git e GitHub
+- Visualização de Dados
+- Storytelling com Dados
+- SQL Server (em estudo)
+- DAX (em estudo)
+- Python (em estudo)
 
 ---
 
