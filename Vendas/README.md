@@ -5,7 +5,7 @@
 
 ---
 
-# 🏭 Dashboard de Produção
+# 🏭 Dashboard de Vendas
 
 Este projeto tem como objetivo analisar indicadores de produção, avaliando eficiência operacional, 
 volume produzido e desempenho dos processos.
