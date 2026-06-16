@@ -50,10 +50,10 @@ A correlação entre volume produzido e eficiência operacional reforça a impor
 
 Este projeto permite uma visão clara da operação produtiva, contribuindo para:
 
-Melhoria contínua dos processos
-Redução de desperdícios e retrabalho
-Aumento da eficiência operacional
-Melhor planejamento de capacidade produtiva
+- Melhoria contínua dos processos
+- Redução de desperdícios e retrabalho
+- Aumento da eficiência operacional
+- Melhor planejamento de capacidade produtiva
 
 ---
 
