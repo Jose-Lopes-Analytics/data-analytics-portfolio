@@ -19,7 +19,7 @@ dashboard interativo desenvolvido no Power BI, auxiliando na tomada de decisão 
 Abaixo está o dashboard financeiro desenvolvido, com foco na visualização clara e 
 interativa dos principais indicadores de desempenho.
 
-  <img src="images/dashboard-financeiro.png" width="900"/>
+![Dashboard Financeiro](images/dashboard-financeiro.png)
 
 ---
 
