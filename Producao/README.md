@@ -43,6 +43,9 @@ Oscilações na eficiência sugerem possíveis gargalos no processo produtivo qu
 A análise temporal permite identificar padrões de desempenho, auxiliando no planejamento de produção mais eficiente.
 A taxa de retrabalho evidencia oportunidades de melhoria na qualidade do processo produtivo.
 A correlação entre volume produzido e eficiência operacional reforça a importância do balanceamento de recursos e capacidade.
+
+---
+
 📌 Impacto da Análise
 
 Este projeto permite uma visão clara da operação produtiva, contribuindo para:
