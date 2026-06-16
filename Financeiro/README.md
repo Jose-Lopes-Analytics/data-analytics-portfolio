@@ -51,9 +51,7 @@ Dashboard desenvolvido para acompanhamento de performance financeira de forma cl
 
 Abaixo está o dashboard desenvolvido no Power BI para análise financeira.
 
-
-  <img src="images/dashboard-financeiro.png" width="900"/>
-
+  images/dashboard-financeiro.png
 
 ---
 
