@@ -18,7 +18,7 @@ visão gerencial.
 
 🖼️ **Preview do dashboard, (Arquivo .png):**
 
-![Dashboard Financeiro](images/dashboard-financeiro/dashboard-financeiro.png)
+![Dashboard Financeiro](images/dashboard-financeiro.png)
 
 
 ---
