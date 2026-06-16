@@ -1,5 +1,3 @@
-# 📊 Dashboard Financeiro
-
   <img src="https://img.shields.io/badge/Status-Finalizado-brightgreen" />
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow" />
   <img src="https://img.shields.io/badge/Excel-Data%20Analysis-green" />
@@ -9,8 +7,8 @@
 
 # 📊 Dashboard Financeiro
 
-Este projeto apresenta uma análise completa de dados financeiros,
-com foco em indicadores de desempenho, receitas, despesas e lucratividade.
+📈 Projeto de análise de dados financeiros com foco em indicadores de
+performance e apoio à tomada de decisão.
 
 ---
 
@@ -39,10 +37,16 @@ tomada de decisão, facilitando a análise de resultados e tendências.
 
 ## 🧠 Insights Gerados
 
-- Identificação de períodos de maior e menor receita
-- Análise de variação de despesas ao longo do tempo
-- Comparação entre receita e custo operacional
-- Apoio à tomada de decisão estratégica
+- Foi identificado um padrão de variação nas receitas ao longo dos meses,
+  indicando possível influência de sazonalidade ou ciclos de vendas.
+- Períodos de maior despesa impactam diretamente a margem de lucro, reforçando
+   a importância do controle de custos operacionais.
+- A relação entre receita e despesa permite visualizar a evolução da lucratividade,
+   destacando meses com melhor performance financeira.
+- Oscilações nos resultados sugerem oportunidades de otimização de processos e
+  planejamento financeiro mais estratégico.
+- A análise temporal dos dados ajuda a identificar tendências de crescimento ou
+  queda, apoiando decisões mais assertivas.
 
 ---
 
