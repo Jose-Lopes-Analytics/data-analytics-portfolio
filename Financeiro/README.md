@@ -58,6 +58,8 @@ tomada de decisão, facilitando a análise de resultados e tendências.
 
 ---
 
+## 🛠️ Ferramentas de Apoio
+
 PowerPoint (apresentação)
 MyColorSpace — paletas de cores: https://mycolor.space/
 Flaticon — ícones: https://www.flaticon.com/
