@@ -7,58 +7,53 @@
 
 ---
 
+# 📊 Dashboard Financeiro
+
+Este projeto apresenta uma análise completa de dados financeiros, com foco em 
+indicadores de desempenho, receitas, despesas e lucratividade.
+
+---
+
 ## 🎯 Objetivo
 
-Este projeto tem como objetivo analisar indicadores financeiros por meio de um 
-dashboard interativo desenvolvido no Power BI, auxiliando na tomada de decisão baseada em dados.
+Transformar dados financeiros em insights visuais para apoiar a tomada de decisão,
+facilitando a análise de resultados e tendências.
 
 ---
 
-## 🧠 Visão do Projeto
+## 📌 Visão Geral do Dashboard
 
-Abaixo está o dashboard financeiro desenvolvido, com foco na visualização clara e 
-interativa dos principais indicadores de desempenho.
-
-![Dashboard Financeiro](images/dashboard-financeiro.png)
+![Dashboard Financeiro](../images/dashboard-financeiro.png)
 
 ---
 
-## 📌 Principais Indicadores
+## 📈 Principais Indicadores
 
-- Receita total  
-- Despesas totais  
-- Lucro líquido  
-- Evolução mensal  
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- 📊 Power BI  
-- 🔄 Power Query  
-- 📈 Microsoft Excel  
-- 🌿 Git  
-- 🐙 GitHub  
+- Receita total
+- Despesas totais
+- Lucro líquido
+- Margem de lucro
+- Evolução mensal de resultados
 
 ---
 
-## 📚 Em estudo
+## 🧠 Insights Gerados
 
-- SQL Server (Structured Query Language Server - Linguagem de consulta a banco de dados)
-- DAX (Data Analysis Expressions - Linguagem de fórmulas_Power BI)
-- Python (Linguagem de Programação)
+- Identificação de períodos de maior e menor receita
+- Análise de variação de despesas ao longo do tempo
+- Comparação entre receita e custo operacional
+- Apoio à tomada de decisão estratégica
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- Power BI
+- Excel (ou fonte ou outra forma de dados)
+- DAX (quando aplicável)
 
 ---
 
-## 🧰 Ferramentas de apoio
-
-- PowerPoint — apresentações  
-- MyColorSpace — paletas de cores  
-- Flaticon — ícones  
-- Instant Eyedropper — captura de cores  
-- ImgBB — hospedagem de imagens  
-
----
 
 ## 🚀 Status do Projeto:
 
