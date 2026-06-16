@@ -20,7 +20,6 @@ visão gerencial.
 
 ![Dashboard Financeiro](images/dashboard-financeiro.png)
 
-
 ---
 
 🔴 **Acessar dashboard, (Arquivo .pbix):**
@@ -72,7 +71,6 @@ acompanhar indicadores estratégicos e identificar oportunidades de melhoria nos
 🖼️ **Preview do dashboard, (Arquivo .png):**
 
 ![Dashboard Produção](images/dashboard-producao.png)
-
 
 ---
 
@@ -138,9 +136,6 @@ de vendas, faturamento, produtos e evolução de resultados ao longo do tempo.
 🖼️ **Preview do dashboard, (Arquivo .png):**
 
 ![Dashboard Vendas](images/dashboard-vendas.png)
-
-
-
 
 ---
 
@@ -208,10 +203,6 @@ de pessoas e o acompanhamento de métricas organizacionais.
 🖼️ **Preview do dashboard, (Arquivo .png):**
 
 ![Dashboard RH](images/dashboard-rh.png)
-
-
-
-
 
 ---
 
