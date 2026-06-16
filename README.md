@@ -36,29 +36,29 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ---
 
-## 🛠️ Tecnologias:
+## 🛠️ Tecnologias
 
-- 📊 Power BI;  
-- 🔄 Power Query;  
-- 📈 Microsoft Excel;  
-- 🌿 Git;  
-- 🐙 GitHub.  
+- 📊 Power BI  
+- 🔄 Power Query 
+- 📈 Microsoft Excel  
+- 🌿 Git  
+- 🐙 GitHub 
 
-## 🗄️ Em estudo:
+## 🗄️ Em estudo
 
-- SQL Server;
-- DAX; 
-- Python.
+- SQL Server
+- DAX 
+- Python
 
 ---
 
-## 🛠️ Ferramentas de apoio:
+## 🧰 Ferramentas de apoio
 
-- Power Ponint
-- https://mycolor.space/
-- https://www.flaticon.com/
-- https://instant-eyedropper.com/
-- https://pt-br.imgbb.com/
+- PowerPoint (apresentação)
+- MyColorSpace — paletas de cores: https://mycolor.space/
+- Flaticon — ícones: https://www.flaticon.com/
+- Instant Eyedropper — captura de cores: https://instant-eyedropper.com/
+- ImgBB — hospedagem de imagens: https://pt-br.imgbb.com/
 
 ---
 
@@ -114,15 +114,15 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 - SQL Server;
 - DAX; 
 - Python.
+  
 ---
 
-## 🛠️ Ferramentas de apoio:
-
-- Power Ponint
-- https://mycolor.space/
-- https://www.flaticon.com/
-- https://instant-eyedropper.com/
-- https://pt-br.imgbb.com/
+## 🧰 Ferramentas de apoio
+- PowerPoint (apresentação)
+- MyColorSpace — paletas de cores: https://mycolor.space/
+- Flaticon — ícones: https://www.flaticon.com/
+- Instant Eyedropper — captura de cores: https://instant-eyedropper.com/
+- ImgBB — hospedagem de imagens: https://pt-br.imgbb.com/
 
 ---
 
@@ -186,13 +186,13 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ---
 
-## 🛠️ Ferramentas de apoio:
+## 🧰 Ferramentas de apoio
 
-- Power Ponint
-- https://mycolor.space/
-- https://www.flaticon.com/
-- https://instant-eyedropper.com/
-- https://pt-br.imgbb.com/
+- PowerPoint (apresentação)
+- MyColorSpace — paletas de cores: https://mycolor.space/
+- Flaticon — ícones: https://www.flaticon.com/
+- Instant Eyedropper — captura de cores: https://instant-eyedropper.com/
+- ImgBB — hospedagem de imagens: https://pt-br.imgbb.com/
 
 ---
 
@@ -243,17 +243,17 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ## 🛠️ Tecnologias:
 
-- 📊 Power BI;  
-- 🔄 Power Query;  
-- 📈 Microsoft Excel;  
-- 🌿 Git;  
-- 🐙 GitHub.  
+- 📊 Power BI
+- 🔄 Power Query  
+- 📈 Microsoft Excel  
+- 🌿 Git
+- 🐙 GitHub 
 
 ## 🗄️ Em estudo:
 
-- SQL Server;
-- DAX; 
-- Python.
+- SQL Server
+- DAX
+- Python
 
 ---
 
