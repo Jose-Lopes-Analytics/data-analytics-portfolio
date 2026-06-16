@@ -67,6 +67,8 @@ interativa dos principais indicadores de desempenho.
 ---
 Contatos:
 
+Se quiser trocar uma ideia ou falar sobre oportunidades:
+
 WhatsApp: +55 (11)920_855_968
 
 E-mail: jlrpbr@gmail.com
