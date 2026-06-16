@@ -18,6 +18,8 @@ visão gerencial.
 
 🖼️ **Preview do dashboard, (Arquivo .png):**
 
+![Dashboard Financeiro](images/dashboard-financeiro/dashboard-financeiro.png)
+
 
 ---
 
@@ -68,6 +70,8 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 acompanhar indicadores estratégicos e identificar oportunidades de melhoria nos processos produtivos.
 
 🖼️ **Preview do dashboard, (Arquivo .png):**
+
+![Dashboard de Produção](images/dashboard-producao/dashboard-producao.png)
 
 
 ---
@@ -133,7 +137,7 @@ de vendas, faturamento, produtos e evolução de resultados ao longo do tempo.
 
 🖼️ **Preview do dashboard, (Arquivo .png):**
 
-
+![Dashboard de Vendas](images/dashboard-vendas/dashboard-vendas.png)
 
 
 
@@ -202,6 +206,8 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 de pessoas e o acompanhamento de métricas organizacionais.
 
 🖼️ **Preview do dashboard, (Arquivo .png):**
+
+![Dashboard de RH](images/dashboard-rh/dashboard-rh.png)
 
 
 
