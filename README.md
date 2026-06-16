@@ -207,7 +207,7 @@ de pessoas e o acompanhamento de métricas organizacionais.
 
 🖼️ **Preview do dashboard, (Arquivo .png):**
 
-![Dashboard de RH](images/dashboard-rh/dashboard-rh.png)
+![Dashboard RH](images/dashboard-rh.png)
 
 
 
