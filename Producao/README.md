@@ -3,57 +3,41 @@
   <img src="https://img.shields.io/badge/Excel-Data%20Analysis-green" />
   <img src="https://img.shields.io/badge/Projeto-BI-blue" />
 
-  ---
+---
   
 🏭 Dashboard de Produção
 
-Projeto de análise de dados voltado para o monitoramento e avaliação da performance 
-operacional de processos produtivos, com foco em eficiência, produtividade e identificação de gargalos.
+Análise de dados voltada para o acompanhamento da performance produtiva, com foco em eficiência 
+operacional e identificação de melhorias no processo.
 
 ---
 
-🎯 Objetivo do Projeto
+🎯 Objetivo
 
-Este dashboard tem como objetivo transformar dados operacionais em insights estratégicos, permitindo:
-
-Monitorar a eficiência da produção ao longo do tempo
-Identificar gargalos e ineficiências no processo produtivo
-Avaliar o desempenho por período, equipe ou linha de produção
-Apoiar a tomada de decisão baseada em dados
+Monitorar e avaliar indicadores de produção para apoiar decisões relacionadas à eficiência, 
+produtividade e controle operacional.
 
 ---
 
-![Dashboard Financeiro](../images/dashboard-financeiro.png)
+📊 Visão Geral do dashboard
 
+![Dashboard Producao](../images/dashboard-producao.png)
 
----
+📈 Principais Indicadores
 
-📊 Visão Geral do Dashboard
-
-📈 Principais Indicadores (KPIs)
-Volume total de produção
-Eficiência operacional (%)
-Taxa de retrabalho
-Produtividade por período
-Tempo médio de produção
-Variação de desempenho ao longo do tempo
-🧠 Insights Estratégicos
-Foi identificada variação significativa na produtividade entre períodos, indicando influência de fatores operacionais e/ou capacidade produtiva.
-Oscilações na eficiência sugerem possíveis gargalos no processo produtivo que impactam diretamente o volume entregue.
-A análise temporal permite identificar padrões de desempenho, auxiliando no planejamento de produção mais eficiente.
-A taxa de retrabalho evidencia oportunidades de melhoria na qualidade do processo produtivo.
-A correlação entre volume produzido e eficiência operacional reforça a importância do balanceamento de recursos e capacidade.
+- Volume de produção
+- Eficiência operacional
+- Taxa de retrabalho
+- Produtividade ao longo do tempo
 
 ---
 
-📌 Impacto da Análise
+🧠 Insights gerados
 
-Este projeto permite uma visão clara da operação produtiva, contribuindo para:
-
-- Melhoria contínua dos processos
-- Redução de desperdícios e retrabalho
-- Aumento da eficiência operacional
-- Melhor planejamento de capacidade produtiva
+- Variações na produtividade indicam oscilações no desempenho operacional
+- A eficiência apresenta comportamentos distintos entre períodos analisados
+- A taxa de retrabalho evidencia pontos de melhoria no processo produtivo
+- Os dados permitem identificar tendências e apoiar o planejamento da produção
 
 ---
 
@@ -67,20 +51,15 @@ Este projeto permite uma visão clara da operação produtiva, contribuindo para
 
 ## 🛠️ Ferramentas de Apoio
 
-PowerPoint (apresentação)
+- PowerPoint (apresentação)
 
-MyColorSpace — paletas de cores: https://mycolor.space/
+- MyColorSpace — paletas de cores: https://mycolor.space/
 
-Flaticon — ícones: https://www.flaticon.com/
+- Flaticon — ícones: https://www.flaticon.com/
 
-Instant Eyedropper — captura de cores: https://instant-eyedropper.com/
+- Instant Eyedropper — captura de cores: https://instant-eyedropper.com/
 
-ImgBB — hospedagem de imagens: https://pt-br.imgbb.com/
-
-## 🚀 Status do Projeto:
-
-✔ Finalizado
-
+- ImgBB — hospedagem de imagens: https://pt-br.imgbb.com/
 
 ---
 
