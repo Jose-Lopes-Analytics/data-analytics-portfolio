@@ -16,13 +16,13 @@ com foco em dashboards interativos, indicadores e tomadas de decisões.
 📌 Análise de receitas, despesas e indicadores financeiros, com foco em performance e
 visão gerencial.
 
-🖼️ **Preview do dashboard, (Arquivo .png):**
+🖼️ **Preview do dashboard, (Arquivo .png)**
 
 ![Dashboard Financeiro](images/dashboard-financeiro.png)
 
 ---
 
-🔴 **Acessar dashboard, (Arquivo .pbix):**
+🔴 **Acessar dashboard, (Arquivo .pbix)**
 
 👉 🔗
 
@@ -31,10 +31,10 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ### KPIs:
 
-- Receita total;
-- Despesas totais;
-- Lucro líquido;
-- Evolução mensal.
+- Receita total
+- Despesas totais
+- Lucro líquido
+- Evolução mensal
 
 ---
 
@@ -69,13 +69,13 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 📌 Desenvolvido para monitoramento da produção e análise da eficiência operacional, permitindo 
 acompanhar indicadores estratégicos e identificar oportunidades de melhoria nos processos produtivos.
 
-🖼️ **Preview do dashboard, (Arquivo .png):**
+🖼️ **Preview do dashboard, (Arquivo .png)**
 
 ![Dashboard Produção](images/dashboard-producao.png)
 
 ---
 
-🔴 **Acessar dashboard, (Arquivo .pbix):**
+🔴 **Acessar dashboard, (Arquivo .pbix)**
 
 👉 🔗
 
@@ -107,17 +107,17 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ## 🛠️ Tecnologias:
 
-- 📊 Power BI;  
-- 🔄 Power Query;  
-- 📈 Microsoft Excel;  
-- 🌿 Git;  
-- 🐙 GitHub.  
+- 📊 Power BI  
+- 🔄 Power Query  
+- 📈 Microsoft Excel  
+- 🌿 Git  
+- 🐙 GitHub  
 
 ## 🗄️ Em estudo:
 
-- SQL Server;
-- DAX; 
-- Python.
+- SQL Server
+- DAX 
+- Python
   
 ---
 
@@ -135,13 +135,13 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 📌 Analisar dados de vendas para apoiar a tomada de decisão comercial, com foco em desempenho
 de vendas, faturamento, produtos e evolução de resultados ao longo do tempo.
 
-🖼️ **Preview do dashboard, (Arquivo .png):**
+🖼️ **Preview do dashboard, (Arquivo .png)**
 
 ![Dashboard Vendas](images/dashboard-vendas.png)
 
 ---
 
-🔴 **Acessar dashboard, (Arquivo .pbix):**
+🔴 **Acessar dashboard, (Arquivo .pbix)**
 
 👉 🔗
 
@@ -202,13 +202,13 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 📌 Dashboard desenvolvido para análise de indicadores de Recursos Humanos, apoiando a gestão 
 de pessoas e o acompanhamento de métricas organizacionais.
 
-🖼️ **Preview do dashboard, (Arquivo .png):**
+🖼️ **Preview do dashboard, (Arquivo .png)**
 
 ![Dashboard RH](images/dashboard-rh.png)
 
 ---
 
-🔴 **Acessar dashboard, (Arquivo .pbix):**
+🔴 **Acessar dashboard, (Arquivo .pbix)**
 
 👉 🔗
 
