@@ -66,8 +66,11 @@ interativa dos principais indicadores de desempenho.
 
 ---
 Contatos:
-WhatsApp: +55 (11)920_855_968;
+
+WhatsApp: +55 (11)920_855_968
+
 E-mail: jlrpbr@gmail.com
+
 GitHub: https://github.com/Jose-Lopes-Analytics/data-analytics-portfolio/
 
 ---
