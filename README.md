@@ -137,7 +137,7 @@ de vendas, faturamento, produtos e evolução de resultados ao longo do tempo.
 
 🖼️ **Preview do dashboard, (Arquivo .png):**
 
-![Dashboard de Vendas](images/dashboard-vendas/dashboard-vendas.png)
+![Dashboard Vendas](images/dashboard-vendas.png)
 
 
 
