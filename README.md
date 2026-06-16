@@ -38,14 +38,17 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ## 🛠️ Tecnologias:
 
-- 📊 Power BI;
-- 🔄 Power Query;
-- 📈 Microsoft Excel;
-- 🌿 Git;
-- 🐙 GitHub;
-- 🗄️ SQL Server (em estudo);
-- 📝 DAX (em estudo);
-- 📝 Python (em estudo).
+- 📊 Power BI;  
+- 🔄 Power Query;  
+- 📈 Microsoft Excel;  
+- 🌿 Git;  
+- 🐙 GitHub.  
+
+## 🗄️ Em estudo:
+
+- SQL Server;
+- DAX; 
+- Python.
 
 ---
 
@@ -100,15 +103,17 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ## 🛠️ Tecnologias:
 
-- 📊 Power BI;
-- 🔄 Power Query;
-- 📈 Microsoft Excel;
-- 🌿 Git;
-- 🐙 GitHub;
-- 🗄️ SQL Server (em estudo);
-- 📝 DAX (em estudo);
-- 📝 Python (em estudo).
+- 📊 Power BI;  
+- 🔄 Power Query;  
+- 📈 Microsoft Excel;  
+- 🌿 Git;  
+- 🐙 GitHub.  
 
+## 🗄️ Em estudo:
+
+- SQL Server;
+- DAX; 
+- Python.
 ---
 
 ## 🛠️ Ferramentas de apoio:
@@ -167,14 +172,17 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ## 🛠️ Tecnologias:
 
-- 📊 Power BI;
-- 🔄 Power Query;
-- 📈 Microsoft Excel;
-- 🌿 Git;
-- 🐙 GitHub;
-- 🗄️ SQL Server (em estudo);
-- 📝 DAX (em estudo);
-- 📝 Python (em estudo).
+- 📊 Power BI;  
+- 🔄 Power Query;  
+- 📈 Microsoft Excel;  
+- 🌿 Git;  
+- 🐙 GitHub.  
+
+## 🗄️ Em estudo:
+
+- SQL Server;
+- DAX; 
+- Python.
 
 ---
 
@@ -235,14 +243,17 @@ CI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ## 🛠️ Tecnologias:
 
-- 📊 Power BI;
-- 🔄 Power Query;
-- 📈 Microsoft Excel;
-- 🌿 Git;
-- 🐙 GitHub;
-- 🗄️ SQL Server (em estudo);
-- 📝 DAX (em estudo);
-- 📝 Python (em estudo).
+- 📊 Power BI;  
+- 🔄 Power Query;  
+- 📈 Microsoft Excel;  
+- 🌿 Git;  
+- 🐙 GitHub.  
+
+## 🗄️ Em estudo:
+
+- SQL Server;
+- DAX; 
+- Python.
 
 ---
 
