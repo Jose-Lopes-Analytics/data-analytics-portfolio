@@ -47,11 +47,11 @@ faturamento, performance de produtos e evolução comercial.
 
 🛠️ Ferramentas Utilizadas
 
-Power BI
+- Power BI
 
-Excel
+- Excel
 
-DAX
+- DAX
 
 ---
 
