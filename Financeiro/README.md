@@ -3,73 +3,39 @@
   <img src="https://img.shields.io/badge/Excel-Data%20Analysis-green" />
   <img src="https://img.shields.io/badge/Projeto-BI-blue" />
 
----
+# 💰 Dashboard Financeiro - Power BI
 
-# 📊 Dashboard Financeiro
-
-📈 Projeto de análise de dados financeiros com foco em indicadores de
-performance e apoio às tomadas de decisões.
+Projeto de análise financeira desenvolvido no Power BI com foco em visualização de indicadores e tomada de decisão.
 
 ---
 
 ## 🎯 Objetivo
-
-Transformar dados financeiros em insights visuais para apoiar a 
-tomada de decisão, facilitando a análise de resultados e tendências.
+Transformar dados financeiros em insights claros e visuais, facilitando a análise de desempenho.
 
 ---
 
-## 📌 Visão Geral do Dashboard
-
-![Dashboard Financeiro](../images/dashboard-financeiro.png)
-
----
-
-## 📈 Principais Indicadores
-
+## 📊 Indicadores principais
 - Receita total
 - Despesas totais
-- Lucro líquido
-- Margem de lucro
-- Evolução mensal de resultados
+- Resultado financeiro (lucro/prejuízo)
+- Evolução dos valores ao longo do tempo
 
 ---
 
-## 🧠 Insights Gerados
-
-- Foi identificado um padrão de variação nas receitas ao longo dos meses,
-  indicando possível influência de sazonalidade ou ciclos de vendas.
-- Períodos de maior despesa impactam diretamente a margem de lucro, reforçando
-   a importância do controle de custos operacionais.
-- A relação entre receita e despesa permite visualizar a evolução da lucratividade,
-   destacando meses com melhor performance financeira.
-- Oscilações nos resultados sugerem oportunidades de otimização de processos e
-  planejamento financeiro mais estratégico.
-- A análise temporal dos dados ajuda a identificar tendências de crescimento ou
-  queda, apoiando decisões mais assertivas.
-
----
-
-## 🛠️ Ferramentas Utilizadas
-
+## 🧰 Ferramentas
 - Power BI
-- Excel
-- DAX 
+- Modelagem de dados
+- Visualização de dados
 
 ---
 
-## 🛠️ Ferramentas de Apoio
+## 📸 Visual do Dashboard
+![Dashboard Financeiro](imagens/dashboard_1.png)
 
-- PowerPoint (apresentação)
+---
 
-- MyColorSpace — paletas de cores: https://mycolor.space/
-
-- Flaticon — ícones: https://www.flaticon.com/
-
-- Instant Eyedropper — captura de cores: https://instant-eyedropper.com/
-
-- ImgBB — hospedagem de imagens: https://pt-br.imgbb.com/
-
+## 🚀 Sobre o projeto
+Projeto desenvolvido para portfólio em análise de dados, simulando um cenário real de análise financeira.
 ## 🚀 Status do Projeto:
 
 ✔ Finalizado
