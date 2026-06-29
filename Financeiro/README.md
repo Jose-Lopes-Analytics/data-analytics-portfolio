@@ -21,7 +21,7 @@ tomada de decisão, facilitando a análise de resultados e tendências.
 
 ## 📌 Visão Geral do Dashboard
 
-![Dashboard Financeiro](../images/dashboard-producao.png)
+![Dashboard Financeiro](../images/dashboard-financeiro.png)
 
 ---
 
