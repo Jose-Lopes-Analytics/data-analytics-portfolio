@@ -6,8 +6,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
 ![Status](https://img.shields.io/badge/Status-Em%20Evolução-orange)
 
-Este repositório reúne meus projetos de **Análise de Dados e Business Intelligence**,
-com foco em dashboards interativos, indicadores e tomadas de decisões.
+Este repositório reúne meus projetos de ** Business Intelligence **,
+com O foco em dashboard interativo, indicadores e tomada de decisões.
 
 ---
 
