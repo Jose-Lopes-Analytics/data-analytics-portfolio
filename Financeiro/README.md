@@ -8,7 +8,7 @@
 # 📊 Dashboard Financeiro
 
 📈 Projeto de análise de dados financeiros com foco em indicadores de
-performance e apoio à tomada de decisão.
+performance e apoio às tomadas de decisões.
 
 ---
 
