@@ -5,7 +5,7 @@
 
 # 💰 Dashboard Financeiro - Power BI
 
-Projeto de análise financeira desenvolvido no Power BI com foco em visualização de indicadores e tomada de decisão.
+Projeto de análise financeira desenvolvido no Power BI com foco em visualização de indicadores e tomada de decisões.
 
 ---
 
