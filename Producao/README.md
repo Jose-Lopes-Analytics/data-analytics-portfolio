@@ -23,6 +23,13 @@ produtividade e controle operacional.
 
 ![Dashboard Producao](../images/dashboard-producao.png)
 
+---
+
+📊 Dashboard interativo
+
+https://app.powerbi.com/view?r=eyJrIjoiNzVlZmM3NzAtZjFhZC00NzE5LThhMTEtYmFmMzYxN2J
+iZGI3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
 📈 Principais Indicadores
 
 - Volume de produção
