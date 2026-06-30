@@ -14,14 +14,16 @@ desempenho organizacional e visão estratégica de recursos humanos.
 
 ## 🎯 Objetivo:
 
-Monitorar indicadores de RH para apoiar decisões relacionadas à gestão de pessoas, retenção de talentos e análise do quadro de colaboradores.
+Monitorar indicadores de RH para apoiar decisões relacionadas à gestão de pessoas, retenção de
+talentos e análise do quadro de colaboradores.
 
---- 
+---
 
-📊 Visão Geral do dashboard
+📊 Visão Geral do dashboard:
 
 ![Dashboard de rh](../images/dashboard-rh.png)
 
+--- 
 
 Dashboard Interativo.
 
@@ -30,17 +32,7 @@ FkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ---
 
-📈 Principais Indicadores
-
-- Número total de colaboradores
-- Taxa de turnover
-- Admissões e desligamentos
-- Distribuição por área ou setor
-- Tempo médio de empresa
-
----
-
-🧠 Insights
+## 🧠 Insights gerados:
 
 - Análise de rotatividade de colaboradores ao longo do tempo
 - Identificação de períodos com maior volume de admissões e desligamentos
@@ -50,17 +42,16 @@ FkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ---
 
-🛠️ Ferramentas Utilizadas
+🛠️ Ferramentas Utilizadas:
 
 - Power BI
-
 - Excel
-
-- DAX
+- Power Query
+- DAX 
 
 ---
 
-🛠️ Ferramentas de Apoio
+🛠️ Ferramentas de Apoio:
 
 - PowerPoint (apresentação)
 
