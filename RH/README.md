@@ -20,6 +20,12 @@ Monitorar indicadores de RH para apoiar decisões relacionadas à gestão de pes
 
 ![Dashboard de Produção](../images/dashboard-rh.png)
 
+
+Dashboard Interativo.
+
+https://app.powerbi.com/view?r=eyJrIjoiZjZhYjAzMWItN2ZjYS00OGFjLWE4Y2UtNWVmMTdkODJkNj
+FkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
 ---
 
 📈 Principais Indicadores
