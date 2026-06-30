@@ -35,6 +35,8 @@ Transformar dados financeiros em insights claros e visuais, facilitando a análi
 
 ---
 
+📊 Dashboard interativo
+
 https://app.powerbi.com/view?r=eyJrIjoiNjdlOTM4NDAtMDIwYS00ZjJhLWEzZDYtODUzNzc2Y2E2N
 jA1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
