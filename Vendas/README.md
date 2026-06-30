@@ -23,6 +23,14 @@ faturamento, performance de produtos e evolução comercial.
 
 ![Dashboard de Produção](../images/dashboard-vendas.png)
 
+
+---
+
+## 📊 Dashboard Interativo
+
+https://app.powerbi.com/view?r=eyJrIjoiNDdiYjdiNzItZGEyYy00ZjgyLWIzNjUtYzc0Zjdk
+ZWE5ZGQwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
 ---
 
 📈 Principais Indicadores
