@@ -84,5 +84,5 @@ https://github.com/Jose-Lopes-Analytics/data-analytics-portfolio
 
 ---
 
-⭐ Grato por visitar meu portfólio!
+⭐ Grato por visitarem o meu portfólio!
 
