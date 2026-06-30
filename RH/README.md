@@ -2,15 +2,17 @@
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow" />
   <img src="https://img.shields.io/badge/Excel-Data%20Analysis-green" />
   <img src="https://img.shields.io/badge/Projeto-BI-blue" />
+  
+---
 
-👥 Dashboard de Recursos Humanos (RH)
+# 👥 Dashboard de Recursos Humanos (RH):
 
 Análise de dados voltada para indicadores de pessoas, com foco em gestão de colaboradores,
 desempenho organizacional e visão estratégica de recursos humanos.
 
 ---
 
-🎯 Objetivo
+## 🎯 Objetivo:
 
 Monitorar indicadores de RH para apoiar decisões relacionadas à gestão de pessoas, retenção de talentos e análise do quadro de colaboradores.
 
@@ -18,7 +20,7 @@ Monitorar indicadores de RH para apoiar decisões relacionadas à gestão de pes
 
 📊 Visão Geral do dashboard
 
-![Dashboard de Produção](../images/dashboard-rh.png)
+![Dashboard de rh](../images/dashboard-rh.png)
 
 
 Dashboard Interativo.
