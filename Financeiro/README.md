@@ -29,8 +29,9 @@ Transformar dados financeiros em insights claros e visuais, facilitando a análi
 
 ---
 
-## 📸 Visual do Dashboard
-![Dashboard Financeiro](imagens/dashboard_1.png)
+📊 Visão Geral do dashboard
+
+![Dashboard Financeiro](../images/dashboard-financeiro.png)
 
 ---
 
