@@ -21,7 +21,7 @@ produtividade e controle operacional.
 
 📊 Visão Geral do dashboard:
 
-![Dashboard Producao](../images/dashboard-preoducao.png)
+![Dashboard Producao](../images/dashboard-producao.png)
 
 ---
 
