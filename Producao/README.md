@@ -5,41 +5,34 @@
 
 ---
   
-🏭 Dashboard de Produção
+# 🏭 Dashboard de Produção:
 
 Análise de dados voltada para o acompanhamento da performance produtiva, com foco em eficiência 
 operacional e identificação de melhorias no processo.
 
 ---
 
-🎯 Objetivo
+## 🎯 Objetivo:
 
 Monitorar e avaliar indicadores de produção para apoiar decisões relacionadas à eficiência, 
 produtividade e controle operacional.
 
 ---
 
-📊 Visão Geral do dashboard
+📊 Visão Geral do dashboard:
 
-![Dashboard Producao](../images/dashboard-producao.png)
+![Dashboard Producao](../images/dashboard-preoducao.png)
 
 ---
 
-📊 Dashboard interativo
+📊 Dashboard interativo:
 
 https://app.powerbi.com/view?r=eyJrIjoiNzVlZmM3NzAtZjFhZC00NzE5LThhMTEtYmFmMzYxN2J
 iZGI3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
-📈 Principais Indicadores
-
-- Volume de produção
-- Eficiência operacional
-- Taxa de retrabalho
-- Produtividade ao longo do tempo
-
 ---
 
-🧠 Insights gerados
+## 🧠 Insights gerados:
 
 - Variações na produtividade indicam oscilações no desempenho operacional
 - A eficiência apresenta comportamentos distintos entre períodos analisados
@@ -48,15 +41,16 @@ iZGI3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas:
 
 - Power BI
 - Excel
+- Power Query
 - DAX 
 
 ---
 
-## 🛠️ Ferramentas de Apoio
+## 🛠️ Ferramentas de Apoio:
 
 - PowerPoint (apresentação)
 
@@ -72,7 +66,7 @@ iZGI3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ## 🚀 Status do Projeto:
 
-✔ Finalizado
+✔ Finalizado.
 
 ---
 
