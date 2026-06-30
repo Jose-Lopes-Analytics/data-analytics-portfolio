@@ -3,18 +3,32 @@
   <img src="https://img.shields.io/badge/Excel-Data%20Analysis-green" />
   <img src="https://img.shields.io/badge/Projeto-BI-blue" />
 
-# 💰 Dashboard Financeiro - Power BI
+# 💰 Dashboard do Financeiro:
 
-Projeto de análise de dados utilizando Excel, Power Query e Power BI para criação de dashboard e visualização de indicadores.
+Projeto de análise de dados utilizando Excel, Power Query e Power BI para criação de dashboard e
+visualização de indicadores.
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo:
 Transformar dados financeiros em insights claros e visuais, facilitando a análise de desempenho.
 
 ---
 
-## 📊 Indicadores principais
+📊 Visão Geral do dashboard:
+
+![Dashboard Financeiro](../images/dashboard-financeiro.png)
+
+---
+
+📊 Dashboard interativo:
+
+https://app.powerbi.com/view?r=eyJrIjoiNjdlOTM4NDAtMDIwYS00ZjJhLWEzZDYtODUzNzc2Y2E2Nj
+A1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
+---
+
+## 🧠 Insights gerados:
 - Receita total
 - Despesas totais
 - Resultado financeiro (lucro/prejuízo)
@@ -22,29 +36,36 @@ Transformar dados financeiros em insights claros e visuais, facilitando a análi
 
 ---
 
-## 🧰 Ferramentas
+## 🛠️ Ferramentas Utilizadas:
+
 - Power BI
-- Modelagem de dados
-- Visualização de dados
+- Excel
+- Power Query
+- DAX 
 
 ---
 
-📊 Visão Geral do dashboard
+## 🛠️ Ferramentas de Apoio:
 
-![Dashboard Financeiro](../images/dashboard-financeiro.png)
+- PowerPoint (apresentação)
+
+- MyColorSpace — paletas de cores: https://mycolor.space/
+
+- Flaticon — ícones: https://www.flaticon.com/
+
+- Instant Eyedropper — captura de cores: https://instant-eyedropper.com/
+
+- ImgBB — hospedagem de imagens: https://pt-br.imgbb.com/
 
 ---
 
-📊 Dashboard interativo
+📊 Dashboard interativo:
 
 https://app.powerbi.com/view?r=eyJrIjoiNjdlOTM4NDAtMDIwYS00ZjJhLWEzZDYtODUzNzc2Y2E2N
 jA1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ---
 
-
-## 🚀 Sobre o projeto
-Projeto desenvolvido para portfólio em análise de dados, simulando um cenário real de análise financeira.
 ## 🚀 Status do Projeto:
 
 ✔ Finalizado
